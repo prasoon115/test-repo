@@ -1,3 +1,3 @@
 # git and github tutorial
 
-A fast-paced tutorial from Fireship.
+A fast-paced git tutorial from Fireship.
